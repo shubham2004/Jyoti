@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "945639323216",
+    "firebase_url": "https://jyoti-1836c.firebaseio.com",
+    "project_id": "jyoti-1836c",
+    "storage_bucket": "jyoti-1836c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945639323216:android:068c042397c9410f",
+        "android_client_info": {
+          "package_name": "com.sriyanksiddhartha.speechtotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945639323216-7nov6ov4bc8qb3h4lhqc9j4vo2gebdjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sriyanksiddhartha.speechtotext",
+            "certificate_hash": "7f72853288239b419260c511557ed631451bcb34"
+          }
+        },
+        {
+          "client_id": "945639323216-mjtobqsl33l4r83vv2fc8l4qlb236tli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXLE2OOVxoCl_Q9LBZqkzCOCiFIwg9P4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945639323216-mjtobqsl33l4r83vv2fc8l4qlb236tli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

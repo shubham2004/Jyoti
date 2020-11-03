@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fullscreen5"
+    android:background="#303030"
+    tools:context="trojan.com.jyoti.book_reader">
+
+    <TextView
+        android:id="@+id/pt5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/pt6"
+        android:layout_marginTop="33dp"
+        android:text="Harry Potter and the order of phoenix"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+
+
+    <TextView
+        android:id="@+id/pt6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pt5"
+        android:layout_marginTop="40dp"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="#ffffff"
+        android:text="Harry Potter and the half blood prince" />
+
+
+    <TextView
+        android:id="@+id/pt7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pt6"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="20dp"
+        android:textColor="#ffffff"
+        android:text="Harry Potter and the deathly hallows" />
+
+</RelativeLayout>

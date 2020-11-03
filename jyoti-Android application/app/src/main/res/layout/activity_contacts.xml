@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id = "@+id/fullscreen2"
+    android:background="#303030"
+    tools:context=".contacts">
+
+    <TextView
+        android:id="@+id/Father"
+        android:layout_width="337dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:textSize="20dp"
+        android:text="Call Papa \n9584464299"
+        android:textColor="#ffffff" />
+
+
+    <TextView
+        android:id="@+id/Mother"
+        android:layout_width="337dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Father"
+        android:layout_marginTop="40dp"
+        android:textSize="20dp"
+        android:layout_marginLeft="25dp"
+        android:textColor="#ffffff"
+        android:text="Call Mother \n9584468978" />
+
+
+    <TextView
+        android:id="@+id/brother"
+        android:layout_width="337dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Mother"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="25dp"
+        android:textSize="20dp"
+        android:textColor="#ffffff"
+        android:text="Call Brother \n9584468977" />
+
+
+</RelativeLayout>
