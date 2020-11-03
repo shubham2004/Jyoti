@@ -5,7 +5,7 @@ There are two modules
 This hard ware can be attacted to the mobile phone and give output of braille letters <br />
 ![Output sample](https://github.com/shubham2004/Jyoti/blob/master/demo.gif) <br />
 
-##Software
+## Software
 This is on-board android application which has various functionalities to help the disable persons, we will go through one by one :<br />
 ![Screenshot](app_screen1.JPG) <br />
 ![Screenshot](app_screen2.JPG)
