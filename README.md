@@ -26,3 +26,6 @@ In this section, we will be having books that we can read using an external hard
 
 - others <br />
 we also introduced other features like text to speech, camera, etc.
+
+## Whole Setup
+![Screenshot](hardware.JPG) <br />
